@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#906A97</color>
+    <color name="colorPrimaryDark">#784C80</color>
+    <color name="colorAccent">#C4C3C5</color>
+    <color name="hueso_borde">#5D3165</color>
+    <color name="hueso_fondo">#9867A1</color>
+</resources>

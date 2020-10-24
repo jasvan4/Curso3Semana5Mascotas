@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Curso3Semana5Mascotas</string>
+    <!--Card view-->
+    <string name="puntos">0</string>
+    <string name="Titulo">Mascotas</string>
+    <string name="nMascota">Nombre</string>
+    <string name="pNombre">Nombre</string>
+    <string name="pPuntos">Puntos</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="contacto">Contacto </string>
+    <string name="favoritas">Tus mascotas favoritas</string>
+
+    <!--valores-->
+    <string name="value_foto">vfoto</string>
+    <string name="value_likes">vlikes</string>
+
+</resources>
