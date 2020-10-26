@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="elevationappbar">4dp</dimen>
-    <dimen name="corner_dadius_cardvew">4dp</dimen>
+    <!--CARD VIEW-->
+    <dimen name="margin_top_cardview">5dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+
     <dimen name="layout_width_image">200dp</dimen>
     <dimen name="layout_height_image">200dp</dimen>
+
     <dimen name="layout_width_carview">250dp</dimen>
     <dimen name="layout_height_carview">270dp</dimen>
+
     <dimen name="layout_width_image2">100dp</dimen><!---->
     <dimen name="layout_height_image2">100dp</dimen><!---->
+
     <dimen name="layout_width_carview2">150dp</dimen><!---->
     <dimen name="layout_height_carview2">160dp</dimen><!---->
+
     <dimen name="layout_marginButton_carview">4dp</dimen>
     <dimen name="layout_margin_top_linearLayout_nieto">5dp</dimen>
+
     <dimen name="width_imegeHueso">30dp</dimen>
     <dimen name="height_imageHueso">30dp</dimen>
     <dimen name="textsize">20sp</dimen>
